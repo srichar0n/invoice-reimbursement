@@ -36,7 +36,7 @@ reimbursement/
 
 1. **Clone the repository:**
    ```sh
-   git clone <your-repo-url>
+   git clone https://github.com/srichar0n/invoice-reimbursement
    cd reimbursement
    ```
 
