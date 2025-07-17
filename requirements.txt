@@ -1,0 +1,11 @@
+streamlit
+PyPDF2
+google-generativeai
+sentence-transformers
+faiss-cpu
+numpy
+fastapi
+fastapi[standard]
+uvicorn
+pydantic
+python-multipart

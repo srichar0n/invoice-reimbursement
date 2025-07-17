@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+myvenv/
+ENV/
+.env
+.env.*
+
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Log files
+*.log
+
+# FAISS index and metadata (generated vector store)
+app/faiss_index.bin
+app/faiss_metadata.pkl
+
+# Streamlit cache
+.streamlit/
+
+# Test and unnecessary files
+test_*.py
+unnecessary_files/
+
